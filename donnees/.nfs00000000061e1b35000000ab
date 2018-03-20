@@ -1,0 +1,19 @@
+ALGORITHME TestTableau
+constante:
+  TAILLE_MAX <- 10
+variable:
+
+  a : entier
+  b : reel
+  c : entier
+
+DEBUT
+  lire (c)
+  a <- 6
+  b <- 34
+  tantque (cpt < nbElt et cpt = TAILLE_MAX ) faire
+    lire (b)
+    b <- a * a * 258
+  ftq
+
+FIN

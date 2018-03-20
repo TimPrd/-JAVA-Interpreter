@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="iut">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/iut.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
